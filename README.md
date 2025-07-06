@@ -2,7 +2,7 @@
 
 This website was built using these frameworks:
 
-* **[Next.js](https://next.js.org/)** (framework)
+* **[Next.js](https://nextjs.org/)** (framework)
 * **[Tailwind CSS](https://tailwindcss.com/)** (styling)
 * **[Radix UI](https://www.radix-ui.com/)** (headless UI components)
 * **[Lucide React](https://lucide.dev/)** (icon library)
