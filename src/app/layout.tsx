@@ -8,10 +8,7 @@ import { LangProvider } from "@/contexts/language-context"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "cursom",
-  description:
-    "Portfolio of cursom - A passionate 17-year-old developer specializing in TypeScript, Java, and web development",
-  keywords: ["developer", "portfolio", "typescript", "javascript", "nextjs", "java", "python", "web development"],
+  title: "cursom"
 }
 
 export default function RootLayout({
